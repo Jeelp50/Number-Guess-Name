@@ -1,0 +1,42 @@
+body {
+    background-color: lightyellow;
+}
+
+.logo {
+    width: 100px;
+    border-width: 5px black solid;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+
+.center {
+    text-align: center;
+    flex: 1;
+}
+
+.right {
+    text-align: right;
+}
+
+.button {
+    text-align: center;
+}
+
+#start {
+    background-color: orange;
+    font-size: 50px;
+    width: 215px;
+}
+
+.instru {
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+}
